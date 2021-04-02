@@ -1,6 +1,4 @@
-# BankMarketing
-EDA and Machine Learning on Bank Marketing Campaign
-# [Bank Marketing Campaign: Overview](https://github.com/f-carrizo/EDA_RealEstateARG/blob/main/Proyecto_Properaty.ipynb)
+# [Bank Marketing Campaign: Overview](https://github.com/f-carrizo/BankMarketing/blob/main/Facundo_Carrizo.ET.Marketing_Telef%C3%B3nico.ipynb)
 
 * EDA
 * UnderSampling target 
